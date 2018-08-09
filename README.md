@@ -1,1 +1,0 @@
-# fp.sketch_styleguide
